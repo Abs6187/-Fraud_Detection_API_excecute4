@@ -1,6 +1,6 @@
 # Fraud Detection Analysis Dashboard
 
-![SabPaisa Logo]([https://github.com/Abs6187/-Fraud_Detection_API_excecute4/blob/188a929995130a179dcd3a00b1ecffd018b8aef7/SabPaisa_logo.png]
+![SabPaisa Logo]([https://github.com/Abs6187/-Fraud_Detection_API_excecute4/SabPaisa_logo.png]
 
 ## Overview
 
